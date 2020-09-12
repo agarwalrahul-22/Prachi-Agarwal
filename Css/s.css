@@ -1,0 +1,21 @@
+body{
+	background-color: #292828;
+}
+
+#header-nav {
+  background-color: #000000;
+  border-radius: 0;
+  border: 30px;
+  border-color: #03C7F9;
+}
+
+#tile {
+	color: #ffffff;
+}
+
+#logo-img {
+  background: url('../D:/Prachi Agarwal/logo.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
