@@ -42,6 +42,11 @@ body{
   font-size: 1.5em;
  }
 
+ #text p{
+  width: 500px;
+  height: 400px;
+ }
+
  .name {
   color: #ffffff;
   font-size: 4em;
@@ -50,4 +55,24 @@ body{
 .GetInTouch{
   width: 200px;
   text-align: center;
+  margin-left: 50px;
+}
+
+#Headings{
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 3em;
+  color: #03C7F9;
+}
+
+#image{
+  background: url('../Images/Prachi1.jpg') no-repeat;
+  height: 400px;
+  width: 600px;
+  float: right;
+  margin-right: 70px;
+  filter: blur(7px);
+}
+#image:hover{
+  filter: blur(0px);
 }
